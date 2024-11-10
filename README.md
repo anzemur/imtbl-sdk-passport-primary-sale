@@ -12,8 +12,10 @@ Copy over the `.env.example` file to `.env` and fill in the required environment
 
 ## Required Environment Variables
 
+```bash
 NEXT_PUBLIC_ENV_ID=
 NEXT_PUBLIC_CLIENT_ID=
+```
 
 ## Running locally
 
